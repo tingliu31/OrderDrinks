@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>606070189150-sl75lkrdgpvtkvthoo6hsaqeltv5tu3v.apps.googleusercontent.com</string>
+	<string>414554470963-7duh7i6qg85vt6cfblmlk87a58k3ce68.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.606070189150-sl75lkrdgpvtkvthoo6hsaqeltv5tu3v</string>
+	<string>com.googleusercontent.apps.414554470963-7duh7i6qg85vt6cfblmlk87a58k3ce68</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDmPBtlhICmATCeqO-lNdePVYvNgeqJACA</string>
+	<string>AIzaSyDvFiTlFJL1qqtruXYx9kCJdb1NzOytTBY</string>
 	<key>GCM_SENDER_ID</key>
-	<string>606070189150</string>
+	<string>414554470963</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.tingyin.OrderDrink</string>
 	<key>PROJECT_ID</key>
-	<string>orderdrink-25d0e</string>
+	<string>orderdrinkapp-d64bb</string>
 	<key>STORAGE_BUCKET</key>
-	<string>orderdrink-25d0e.appspot.com</string>
+	<string>orderdrinkapp-d64bb.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:606070189150:ios:3ed9d74520adc9c40458cf</string>
+	<string>1:414554470963:ios:8a3e5c4cd8177423f9c146</string>
 </dict>
 </plist>

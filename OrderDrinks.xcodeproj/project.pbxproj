@@ -14,7 +14,7 @@
 		184A574B268C86A10058ADF3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 184A5749268C86A10058ADF3 /* Main.storyboard */; };
 		184A574D268C86A40058ADF3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 184A574C268C86A40058ADF3 /* Assets.xcassets */; };
 		184A5750268C86A40058ADF3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 184A574E268C86A40058ADF3 /* LaunchScreen.storyboard */; };
-		18A4F7F8268E19D20075B3E4 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 18A4F7F7268E19D20075B3E4 /* GoogleService-Info.plist */; };
+		185A737E270C7982008AD80F /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 185A737D270C7981008AD80F /* GoogleService-Info.plist */; };
 		3F4A2133268F20FD00516911 /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F4A2132268F20FD00516911 /* MenuViewController.swift */; };
 		3F4A214A268F9E9400516911 /* OrderTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F4A2149268F9E9400516911 /* OrderTableViewController.swift */; };
 		3F4A21802690D17200516911 /* ShowOrderTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F4A217F2690D17200516911 /* ShowOrderTableViewController.swift */; };
@@ -29,7 +29,7 @@
 		184A574C268C86A40058ADF3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		184A574F268C86A40058ADF3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		184A5751268C86A40058ADF3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		18A4F7F7268E19D20075B3E4 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		185A737D270C7981008AD80F /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		3F4A2132268F20FD00516911 /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
 		3F4A2149268F9E9400516911 /* OrderTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderTableViewController.swift; sourceTree = "<group>"; };
 		3F4A217F2690D17200516911 /* ShowOrderTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowOrderTableViewController.swift; sourceTree = "<group>"; };
@@ -81,7 +81,7 @@
 				184A574C268C86A40058ADF3 /* Assets.xcassets */,
 				184A574E268C86A40058ADF3 /* LaunchScreen.storyboard */,
 				184A5751268C86A40058ADF3 /* Info.plist */,
-				18A4F7F7268E19D20075B3E4 /* GoogleService-Info.plist */,
+				185A737D270C7981008AD80F /* GoogleService-Info.plist */,
 			);
 			path = OrderDrinks;
 			sourceTree = "<group>";
@@ -163,7 +163,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				184A5750268C86A40058ADF3 /* LaunchScreen.storyboard in Resources */,
-				18A4F7F8268E19D20075B3E4 /* GoogleService-Info.plist in Resources */,
+				185A737E270C7982008AD80F /* GoogleService-Info.plist in Resources */,
 				184A574D268C86A40058ADF3 /* Assets.xcassets in Resources */,
 				184A574B268C86A10058ADF3 /* Main.storyboard in Resources */,
 			);
