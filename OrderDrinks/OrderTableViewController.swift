@@ -18,13 +18,10 @@ class OrderTableViewController: UITableViewController, UITextFieldDelegate {
     @IBOutlet var orderTableView: UITableView!
     
     
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         db = Firestore.firestore()
         setCellData(with: cellData!)
-        //orderNameTextField.resignFirstResponder()
-        // orderNameTextField.delegate = self
         
     }
     
@@ -41,11 +38,6 @@ class OrderTableViewController: UITableViewController, UITextFieldDelegate {
     @IBOutlet weak var sugarSegment: UISegmentedControl!
     @IBOutlet weak var iceSegment: UISegmentedControl!
     
-
-    
-//    func textFieldShouldReturn(_ textField: UITextField) -> Bool {
-//        return true
-//    }
     
     
     func setCellData(with cellData: DrinkData) {
